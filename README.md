@@ -1,3 +1,3 @@
 # Password-Generator
 
-Retirado do canal no YouTube Harshit Baith
+Retirado do canal no YouTube Harshit Bhai
